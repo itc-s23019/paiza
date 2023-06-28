@@ -6,4 +6,4 @@
 
 ## 恋するハッカソン
 
-![ショートカット](./code/syo-tokatto.py)
+- [ショートカット](./code/syo-tokatto.py)
